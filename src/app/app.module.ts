@@ -8,6 +8,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { ContactsComponent } from './contacts/contacts.component';
 import { SignupComponent } from './signup/signup.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 
 
@@ -20,6 +21,7 @@ import { SignupComponent } from './signup/signup.component';
     HomeComponent,
     ContactsComponent,
     SignupComponent,
+    NavbarComponent,
   ],
   imports: [
     BrowserModule,
