@@ -10,6 +10,7 @@ import { ContactsComponent } from './contacts/contacts.component';
 import { SignupComponent } from './signup/signup.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,7 +19,7 @@ import { SignupComponent } from './signup/signup.component';
     FooterComponent,
     HomeComponent,
     ContactsComponent,
-    SignupComponent
+    SignupComponent,
   ],
   imports: [
     BrowserModule,
